@@ -1,2 +1,5 @@
-# dds-cuidandonos
-repositorio para la entrega del trabajo practico por parejas con el enunciado "Cuidandonos"
+# Integrantes del trabajo práctico
+
+Integrantes:
+* Santiago Romano
+* Juan Fransisco Carrique
